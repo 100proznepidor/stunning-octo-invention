@@ -1,0 +1,11 @@
+ua/hhtops/top/TopManager.class
+ua/hhtops/storage/ConfigManager.class
+ua/hhtops/storage/StatisticsStorageManager.class
+ua/hhtops/hologram/HologramManager.class
+ua/hhtops/command/HHTopsCommand.class
+ua/hhtops/vault/EconomyManager.class
+ua/hhtops/command/HHTopsTabCompleter.class
+ua/hhtops/top/TopEntry.class
+ua/hhtops/HHTopsPlugin.class
+ua/hhtops/top/TopCategory.class
+ua/hhtops/top/TopManager$1.class
